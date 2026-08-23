@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+credentials.json
+.DS_Store
+*.log
+.pipeline_cache.pkl
+scheduler_config.json
+archive/
+docs/*
+!docs/slide_deck.pdf

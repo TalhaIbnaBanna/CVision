@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+gspread
+google-auth
+google-genai
+pdfplumber
+pypdf
+fastembed
+APScheduler
+python-dotenv
