@@ -3,7 +3,7 @@
 # CVision: Agentic AI CV Screening Solution
 
 ## Executive Summary
-
+THEHTHS
 This project introduces **CVision**, an agentic AI-powered application designed to streamline the recruitment process. CVision automates the intake, parsing, semantic ranking, and communication phases of hiring, transforming a tedious manual screening process into a highly efficient, automated workflow. By leveraging a combination of Google APIs, layout-aware PDF parsing, and advanced NLP (BERT embeddings and Gemini 2.5 Flash), the system identifies the most qualified candidates based on job descriptions while enabling recruiters to interactively query candidate data through an AI assistant.
 
 ![Mini Demonstration](assets/dashboard_snaps/mini_demonstration.gif)
