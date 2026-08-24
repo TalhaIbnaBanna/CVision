@@ -8,7 +8,7 @@ This project introduces **CVision**, an agentic AI-powered application designed 
 
 ![Mini Demonstration](assets/dashboard_snaps/mini_demonstration.gif)
 
-> A LinkedIn post covering this project can be found **[here](https://www.linkedin.com/feed/update/urn:li:activity:7485166667195383809/)**.
+> A LinkedIn post covering this project can be found **[here](https://lnkd.in/p/g9Nc-H2W)**.
 
 **Key Findings & Features:**
 
